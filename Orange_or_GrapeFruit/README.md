@@ -40,13 +40,13 @@ The goal of this project is **learning and practice**, not innovation — it foc
 ---
 
 ## 📁 Project Structure
-
+```
 Orange_or_GrapeFruit/
 │
 ├── Orange_or_GrapeFruit.ipynb # Jupyter notebook containing the full ML pipeline
 ├── data_O_Gf.xlsx # Dataset used for training/testing
 └── README.md
-
+```
 ---
 
 ## 📊 Model & Evaluation
